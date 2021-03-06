@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Voting</string>
+    <string name="heading">Vote Please</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="hintname">Enter Your Name</string>
+    <string name="hintid">Enter Your Id</string>
+
+    <string-array name="votinglist">
+        <item>Choose Candidate</item>
+        <item>Candidate 1</item>
+        <item>Candidate 2</item>
+        <item>Candidate 3</item>
+    </string-array>
+</resources>
